@@ -3,11 +3,11 @@
 ### NIM 120140127
 
 ## Install
-<br>`@react-navigation/native`
-<br>`@react-navigation/stack`
-<br>`expo-calendar`
-<br>`date-fns`
+<br>`npm install @react-navigation/native`
+<br>`npm install @react-navigation/stack`
+<br>`npm install expo-calendar`
+<br>`npm install date-fns`
 
-##run
+## run
 <br>`cd UTS-PAM`
 <br>`expo start`
